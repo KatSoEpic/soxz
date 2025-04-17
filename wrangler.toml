@@ -1,0 +1,11 @@
+name = "soxz"
+main = "src/index.ts"
+compatibility_date = "2025-04-15"
+
+[observability]
+enabled = true
+
+[vars]
+DOCS = "https://github.com/dragsbruh/soxz"
+FORWARD_HEADER="x-forward-to"
+HELP_MESSAGE = "thats not right, see /docs"
